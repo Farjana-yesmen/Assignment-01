@@ -732,6 +732,14 @@ margin-top:10px;
  .principle_img2 {
     height: 94%;
 		    }
+	.input[type=email] {
+    width: 288px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 1px solid #fff !important;
+    color: white;
+}
 
 }
 
